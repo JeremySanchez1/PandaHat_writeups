@@ -1,0 +1,1 @@
+Flags we're hidden in 3 parts, each one hidden in the html, css and javascript files.
